@@ -1,3 +1,9 @@
+---
+layout: post
+title:  "Kaufberatung zu Powerbanks mit USB-C PowerDelivery mit 60W"
+---
+
+
 # Einführung
 
 Als im Mai 2022 Interrail zu ihrem 50-jährigem Jubiläum sagenhafte 50%-Rabatt auf den Global-Pass verkündete und man sich so ein Ticket für ganz Europa für nur 252€ kaufen konnte, war der Urlaub schnell gebucht. Oder zumindest der gesamte Rahmen, um den man dann den Urlaub planen kann.

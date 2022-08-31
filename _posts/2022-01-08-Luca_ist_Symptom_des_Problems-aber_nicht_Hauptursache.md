@@ -1,4 +1,8 @@
-# Gesundheitsamt und Polizei kooperieren, Luca liefert die Daten (as intended)
+---
+layout: post
+title:  "Gesundheitsamt und Polizei kooperieren, Luca liefert die Daten (as intended)"
+---
+
 Der SWR berichtete heute darüber, dass die Polizei und das Gesundheitsamt Mainz gemeinsam Kontaktdaten einer Gaststätte anforderten, um Zeugen im Zusammenhang mit einem Todesfall ausfindig zu machen:
 https://www.swr.de/swraktuell/rheinland-pfalz/mainz/polizei-ermittelt-ohne-rechtsgrundlage-mit-daten-aus-luca-app-100.html
 
@@ -27,7 +31,3 @@ Kooperieren hier alle Personen (gewissenhafte Check-Ins, PCR-Test bei roter Warn
 Medienberichte zum Thema:
 - SWR https://www.swr.de/swraktuell/rheinland-pfalz/mainz/polizei-ermittelt-ohne-rechtsgrundlage-mit-daten-aus-luca-app-100.html
 - Netzpolitik.org https://netzpolitik.org/2022/mainz-polizei-nutzte-luca-daten-von-kneipenbesuchern-ohne-rechtsgrundlage/
-
-Eigene Tweets:
-- https://twitter.com/kitstudying/status/1479574935097982979?s=20
-- https://twitter.com/kitstudying/status/1479573869384155137?s=20

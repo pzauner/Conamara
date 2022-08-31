@@ -18,10 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Conamara - Zur zerklüfteten Diskurslandschaft Europas
-email: contact@conamara.eu
+title: Conamara - Zur chaotischen Diskurslandschaft Europas
+email: conamara.eu@icloud.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Essays und Artikel zu Themen der (Netz-)Politik
+  Essays und Artikel zu Themen der (Netz-)Politik oder einfach just for fun.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: 

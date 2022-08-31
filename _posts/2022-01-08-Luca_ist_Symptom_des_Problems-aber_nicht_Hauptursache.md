@@ -31,3 +31,5 @@ Kooperieren hier alle Personen (gewissenhafte Check-Ins, PCR-Test bei roter Warn
 Medienberichte zum Thema:
 - SWR https://www.swr.de/swraktuell/rheinland-pfalz/mainz/polizei-ermittelt-ohne-rechtsgrundlage-mit-daten-aus-luca-app-100.html
 - Netzpolitik.org https://netzpolitik.org/2022/mainz-polizei-nutzte-luca-daten-von-kneipenbesuchern-ohne-rechtsgrundlage/
+
+!(Archivierte / Gespiegelte Quellen als Download)[/assets/luca-2022-01-08.zip]

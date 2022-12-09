@@ -1,0 +1,215 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\datalist[entry]{none/global//global/global}
+  \entry{gebhardt_handbuch_2001}{book}{}
+    \name{author}{6}{}{%
+      {{hash=GB}{%
+         family={Gebhardt},
+         familyi={G\bibinitperiod},
+         given={Bruno},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=HR}{%
+         family={Häfele},
+         familyi={H\bibinitperiod},
+         given={Rolf},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=HA}{%
+         family={Haverkamp},
+         familyi={H\bibinitperiod},
+         given={Alfred},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=RW}{%
+         family={Reinhard},
+         familyi={R\bibinitperiod},
+         given={Wolfgang},
+         giveni={W\bibinitperiod},
+      }}%
+      {{hash=KJ}{%
+         family={Kocka},
+         familyi={K\bibinitperiod},
+         given={Jürgen},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=BW}{%
+         family={Benz},
+         familyi={B\bibinitperiod},
+         given={Wolfgang},
+         giveni={W\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Klett Cotta}%
+    }
+    \keyw{Germany, History}
+    \strng{namehash}{GB+1}
+    \strng{fullhash}{GBHRHARWKJBW1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{edition}{10., völlig neu bearb. Aufl}
+    \field{pagetotal}{1}
+    \field{title}{Handbuch der deutschen Geschichte}
+    \field{volume}{23}
+    \list{location}{1}{%
+      {Stuttgart}%
+    }
+    \field{year}{2001}
+  \endentry
+
+  \entry{rodder_bundesrepublik_2004}{book}{}
+    \name{author}{1}{}{%
+      {{hash=RA}{%
+         family={Rödder},
+         familyi={R\bibinitperiod},
+         given={Andreas},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Oldenbourg}%
+    }
+    \strng{namehash}{RA1}
+    \strng{fullhash}{RA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{shorttitle}
+    \field{number}{Bd. 19 a}
+    \field{pagetotal}{330}
+    \field{series}{Oldenbourg : Grundriss der Geschichte}
+    \field{shorttitle}{Die Bundesrepublik Deutschland}
+    \field{title}{Die Bundesrepublik Deutschland: 1969-1990}
+    \list{location}{1}{%
+      {München}%
+    }
+    \field{year}{2004}
+  \endentry
+
+  \entry{noauthor_ministerialblatt_1972}{book}{}
+    \field{labeltitlesource}{title}
+    \field{title}{Ministerialblatt für das Land Nordrhein-Westfalen}
+    \field{year}{1972}
+  \endentry
+
+  \entry{rigoll_staatsschutz_2013}{book}{}
+    \name{author}{1}{}{%
+      {{hash=RD}{%
+         family={Rigoll},
+         familyi={R\bibinitperiod},
+         given={Dominik},
+         giveni={D\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Wallstein}%
+    }
+    \keyw{Extremists, Germany (West), National security}
+    \strng{namehash}{RD1}
+    \strng{fullhash}{RD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{shorttitle}
+    \field{number}{Bd. 13}
+    \field{pagetotal}{524}
+    \field{series}{Beiträge zur Geschichte des 20. Jahrhunderts}
+    \field{shorttitle}{Staatsschutz in Westdeutschland}
+    \field{title}{Staatsschutz in Westdeutschland: von der Entnazifizierung zur
+  Extremistenabwehr}
+    \list{location}{1}{%
+      {Göttingen}%
+    }
+    \field{year}{2013}
+  \endentry
+
+  \entry{edgar_wolfrum_verfassungsfeinde_2022}{book}{}
+    \name{author}{2}{}{%
+      {{hash=E}{%
+         family={{Edgar Wolfrum}},
+         familyi={E\bibinitperiod},
+      }}%
+      {{hash=Y}{%
+         family={{Yvonne Hilges}},
+         familyi={Y\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Wallstein Verlag}%
+    }
+    \strng{namehash}{EY1}
+    \strng{fullhash}{EY1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{shorttitle}
+    \field{pagetotal}{684}
+    \field{shorttitle}{Verfassungsfeinde im Land?}
+    \field{title}{Verfassungsfeinde im Land? Der "Radikalenerlass" von 1972 in
+  der Geschichte Baden-Württembergs und der Bundesrepublik}
+    \list{location}{1}{%
+      {Göttingen}%
+    }
+    \field{year}{2022}
+  \endentry
+
+  \entry{noauthor_bverfge_nodate}{jurisdiction}{}
+    \field{labeltitlesource}{title}
+    \field{title}{{BVerfGE} 39, 334}
+    \verb{url}
+    \verb https://www.servat.unibe.ch/dfr/bv039334.html
+    \endverb
+    \field{urlday}{09}
+    \field{urlmonth}{08}
+    \field{urlyear}{2022}
+  \endentry
+
+  \entry{bildung_vor_nodate}{online}{}
+    \name{author}{1}{}{%
+      {{hash=BBfp}{%
+         family={Bildung},
+         familyi={B\bibinitperiod},
+         given={Bundeszentrale für\bibnamedelima politische},
+         giveni={B\bibinitperiod\bibinitdelim f\bibinitperiod\bibinitdelim
+  p\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{BBfp1}
+    \strng{fullhash}{BBfp1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{shorttitle}
+    \field{abstract}{%
+    Am 28. Januar 1972 einigten sich Bund und Länder auf den sogenannten
+  Radikalenerlass. Daraufhin wurden Bewerberinnen und Bewerber sowie
+  Beschäftigte des öffentlichen Dienstes in der Bundesrepublik jahrelang auf
+  ihre Verfassungstreue hin überprüft.%
+    }
+    \field{shorttitle}{Vor 50 Jahren}
+    \field{titleaddon}{bpb.de}
+    \field{title}{Vor 50 Jahren: "Radikalenerlass"}
+    \verb{url}
+    \verb https://www.bpb.de/kurz-knapp/hintergrund-aktuell/346271/vor-50-jahre
+    \verb n-radikalenerlass/
+    \endverb
+    \field{langid}{german}
+    \verb{file}
+    \verb Snapshot:/Users/patrick/Zotero/storage/KS86BGYP/vor-50-jahren-radikal
+    \verb enerlass.html:text/html
+    \endverb
+    \field{urlday}{09}
+    \field{urlmonth}{08}
+    \field{urlyear}{2022}
+  \endentry
+\enddatalist
+\endinput

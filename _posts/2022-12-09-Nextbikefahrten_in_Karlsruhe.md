@@ -7,7 +7,7 @@ title:  "Nextbikefahrten in Karlsruhe"
 1. Der Datensatz
 2. Welche Daten könnte man hieraus ableiten?
 3. Grobe Visualisierungen
-4. Praktikabilität über gesicherte Wahrheit stellen
+4. Praktikabilität ist wichtiger als gesicherte Wahrheit
 5. Probleme im Umgang mit großen Datenmengen
 6. Verzeichnis und Infos
 
@@ -31,7 +31,7 @@ Ebenfalls können wir nach Stoß- und Pendelzeiten filtern, was eine detailliert
 Für Karlsruhe sprechen jedoch einige Überlegungen für eine (zukünftige) weitere Auswertung, die nicht so verzerrt sein könnte, wie man vielleicht initial vermutet:\
 Da Fahrradfahren an Tagen, an welchen es regnen könnte, sehr viel unattraktiver wird, aber für kurze Strecken die Bahn die unflexiblere als auch längere Fahrt darstellt, kann man, da die Fahrradmitnahme zu Stoßzeiten nicht nur unpraktisch sondern auch nicht gestattet ist, auf die Idee kommen, mit dem Nextbike hin oder aber zurück zu fahren und bei Regen auf die Bahn auszuweichen.
 
-Durch eine Querfinanzierung über den Studierendenbeitrag am KIT als auch an der Hochschule Karlsruhe ist zudem die Nutzung für Studierende extrem günstig. Zwar kann man auch mit einem eigenen Fahrrad fahren, durch die große Verfügbarkeit der Räder auf dem Campus ist jedoch besonders die Heim- oder Weiterfahrt attraktiv. Weder ist man gezwungen, das eigene Fahrrad stehen zu lassen und es am nächsten Tag nicht zu haben, noch muss man es für kurze Fahrten, die man am Ende bspw. mit Kommillitonen zurückläuft, schieben. Durch das Rahmenschloss hat man zudem die Möglichkeit das Fahrrad schnell und unkompliziert abzuschließen und da es auch nicht das eigene ist, muss man kaum Angst um Schäden im Lack oder Diebstahl haben.
+Durch eine Querfinanzierung über den Studierendenbeitrag am KIT als auch an der Hochschule Karlsruhe ist zudem die Nutzung für Studierende extrem günstig. Zwar kann man auch mit einem eigenen Fahrrad fahren, durch die große Verfügbarkeit der Räder auf dem Campus ist jedoch besonders die Heim- oder Weiterfahrt attraktiv. Weder ist man gezwungen, das eigene Fahrrad stehen zu lassen und es am nächsten Tag nicht zu haben, noch muss man es für kurze Fahrten, die man am Ende bspw. mit Kommillitoninnen zurückläuft, schieben. Durch das Rahmenschloss hat man zudem die Möglichkeit das Fahrrad schnell und unkompliziert abzuschließen und da es auch nicht das eigene ist, muss man kaum Angst um Schäden im Lack oder Diebstahl haben.
 Somit ergibt sich eine Grundsituation, die es eher unattraktiv macht, ein eigenes Fahrrad zur Uni zu nehmen, wenn man denn auch gut mit der Bahn zur Uni kommt und die Verfügbarkeit der Räder sehr gut ist. Zwar sind nicht alle Fahrten vom oder zum Campus Pendelstrecken, doch kann man durch das Exkludieren kurzer Fahrten und die oben erwähnten Stoßzeiten eine plausible Fahrtenliste erhalten.
 Da die detaillierte Auswertung dieses Ansatzes jedoch nicht nur erheblich aufwendiger, sondern auch stochastisch unsicherer ist, sind die Visualisierungen dieser Fahrten in diesem Artikel noch nicht enthalten.
 

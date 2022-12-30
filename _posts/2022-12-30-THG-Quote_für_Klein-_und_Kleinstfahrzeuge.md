@@ -148,4 +148,4 @@ Die große Personalengstelle in den Zulassungsstellen dürfte sich mit den komme
 - [12] Zoll online - Erfüllung, Nichterfüllung und Übertragung der Quotenverpflichtung. https://www.zoll.de/DE/Fachthemen/Steuern/Verbrauchsteuern/Treibhausgasquote-THG-Quote/Quotenverpflichtung/Erfuellung-Quotenverpflichtung/Erfuellung-Nichterfuellung-Uebertragung-Quotenverpflichtung/erfuellung-nichterfuellung-uebertragung-quotenverpflichtung_node.html, Datum des Zugriffs: 29.12.2022.
 
 ## Archiv:
-- ![archiv_thg-quote.zip](/assets/thg/archiv_thg-quote.zip) (3a3f9c7efd86c8cacf94a25706155ebfa1d566cb)
+- [archiv_thg-quote.zip](/assets/thg/archiv_thg-quote.zip) (3a3f9c7efd86c8cacf94a25706155ebfa1d566cb)

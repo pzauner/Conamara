@@ -1,4 +1,398 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-09-02T16:58:31+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Conamara - Zur chaotischen Diskurslandschaft Europas</title><subtitle>Essays und Artikel zu Themen der (Netz-)Politik oder einfach just for fun.</subtitle><entry><title type="html">Kaufberatung zu Powerbanks mit USB-C PowerDelivery mit 60W</title><link href="http://localhost:4000/2022/07/27/Powerbanks_und_Wishbashing.html" rel="alternate" type="text/html" title="Kaufberatung zu Powerbanks mit USB-C PowerDelivery mit 60W" /><published>2022-07-27T00:00:00+02:00</published><updated>2022-07-27T00:00:00+02:00</updated><id>http://localhost:4000/2022/07/27/Powerbanks_und_Wishbashing</id><content type="html" xml:base="http://localhost:4000/2022/07/27/Powerbanks_und_Wishbashing.html"><![CDATA[<h1 id="einführung">Einführung</h1>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="https://conamara.eu/feed.xml" rel="self" type="application/atom+xml" /><link href="https://conamara.eu/" rel="alternate" type="text/html" /><updated>2023-02-20T02:56:17+01:00</updated><id>https://conamara.eu/feed.xml</id><title type="html">Conamara - Zur chaotischen Diskurslandschaft Europas</title><subtitle>Essays und Artikel zu Themen der (Netz-)Politik oder einfach just for fun.</subtitle><entry><title type="html">Die Einmalzahlung für Studierende: Von der Inflationshilfe zur inflationären Authentifizierung</title><link href="https://conamara.eu/2023/02/20/Die-Einmalzahlung_f%C3%BCr_Studierende-von_der_Inflationshilfe_in_die_inflation%C3%A4re_Authentifizierung.html" rel="alternate" type="text/html" title="Die Einmalzahlung für Studierende: Von der Inflationshilfe zur inflationären Authentifizierung" /><published>2023-02-20T00:00:00+01:00</published><updated>2023-02-20T00:00:00+01:00</updated><id>https://conamara.eu/2023/02/20/Die%20Einmalzahlung_f%C3%BCr_Studierende-von_der_Inflationshilfe_in_die_inflation%C3%A4re_Authentifizierung</id><content type="html" xml:base="https://conamara.eu/2023/02/20/Die-Einmalzahlung_f%C3%BCr_Studierende-von_der_Inflationshilfe_in_die_inflation%C3%A4re_Authentifizierung.html"><![CDATA[<p>Bereits <a href="https://www.tagesschau.de/inland/entlastungspaket-koalitionsausschuss-energie-versorgung-inflation-103.html">Anfang September 2022</a> wurde im Rahmen des dritten Entlastungpakets eine Einmalzahlung in Höhe von 200€ für Studierende wie Fachschülerinnen und Fachschüler beschlossen - diese lässt aber bis heute auf sich warten. Im November, nur zwei Tage nachdem das Statistische Bundesamt (destatis) den <a href="https://www.destatis.de/DE/Presse/Pressemitteilungen/2022/11/PD22_N066_63.html">Anteil der armutsgefährdeten Studierenden auf knapp 38% im Jahr 2021 bemaß</a>, wurden die Pläne endlich konkreter.</p>
+
+<p>Allerdings war schon damals klar, dass eine Auszahlung nicht mehr vor Weihnachten und auch nicht Ende des Jahres erfolgen würde. Denn ein Gesetz zur Auszahlung gab es noch nicht. Zur Umsetzung dieser soll eine digitale Antragsplattform nach Vorbild von »<a href="https://www.bafoeg-digital.de/ams/BAFOEG">BAföG Digital</a>« aufgebaut werden, da es »kein bundesweites Verzeichnis mit den notwendigen Daten« gebe, <a href="https://www.bmbf.de/bmbf/shareddocs/reden/de/2022/11-22_stark-watzinger-energiepreispauschale.html">so das Bundesministerium für Bildung und Forschung (BMBF)</a>. Entsprechend wurde dem Ministerium für Infrastruktur und Digitales des Landes Sachsen-Anhalt (MID) auch die Verantwortung des Aufbaus übertragen, da dieses schon den Aufbau der digitalen BAföG-Plattform mitbetreute. Dabei war man zuversichtlich, »dass die Plattform spätestens Anfang 2023 freigeschaltet wird« und auch ein konkretes Ziel zur Auszahlung war gesetzt: »Ende des Winters. Da kommen die Heizkostenabrechnungen. Da müssen die 200 Euro auf den Konten sein.« Nun ist der kalendarische Frühlingsanfang Montag, der 20. März 2023 und weil an Wochenenden keine Überweisungen freigegeben werden, könnte man den 17. März vermuten. <a href="https://www.einmalzahlung200.de/eppsg-de/faq-haeufige-fragen-und-antworten">Jetzt</a> soll aber lediglich die Antragsstellung Mitte März freigeschalten werden.</p>
+
+<p>In einem seiner letzten analog zu druckenden Gesetzblätter veröffentlichte der Bundesanzeiger am 20. Dezember 2022 dann das Studierenden-Energiepreispauschalengesetz (EPPSG) und besiegelte die wichtigste Voraussetzung für die alsbaldige Auszahlung.</p>
+
+<p>Dank förderaler Strukturen, die auch im Gesetz mitgedacht wurden, sind für die Durchführung nun jedoch »die nach Landesrecht zuständigen Stellen« (§ 2 Abs. 1 EPPSG) zuständig. Und auf jene wird von Bundesseite auch gerne und viel verwiesen.</p>
+
+<h2 id="hungern-und-warten">Hungern und Warten</h2>
+<p>Über einen Monat später, im neuen Jahr, ließ Bettina Stark-Watzinger, Bundesministerin und Leiterin des BMBF, im Gespräch mit der dpa am 1. Februar verkünden, dass es nun auf die Zielgerade gehe und man mit Sachsen-Anhalt gemeinsam die »letzten rechtlichen Hürden« nehme, »um mit der gemeinsamen Antragsplattform loszulegen«. In einer Pressekonferenz noch am selben Tag <a href="https://www.bundesregierung.de/breg-de/suche/regierungspressekonferenz-vom-1-februar-2023-2162234">führte das BMBF erneut aus</a>, dass es eine Auszahlung über so viele Länder hinweg noch nicht gegeben habe und darum neue Strukturen wie die von den Ländern gewünschte Antragsplattform nötig seien. Zwar wäre der Weg dorthin »kompliziert, aber kein Fehler«. Auch hält man erneut fest: Die Einmalzahlung soll noch in diesem Winter kommen, »wie es die Ministerin gesagt hat«.</p>
+
+<p>Dabei sei der ursprünglich diskutierte Name der »Soforthilfe« kein Witz, da auch mehrere Monate eine zeitnahe Umsetzung darstellten. Auch verlautete man das bis heute mehrfach betonte Dogma, der Mitverwantortlichkeit der Länder an einer schnellen Umsetzung. Die Interpretation, dass bei einem »Ende des Winters« im diffusen Zeitraum »März, April«, eine Auszahlung also vor dem ersten Mai komme, empfand man seitens BMBF wenig lustig - zu ernst sei das Thema feste Termine jedoch nicht seriös.</p>
+
+<h2 id="landingsite--zielgerade">Landingsite = Zielgerade?</h2>
+<p>Zum Montag, dem 13. Februar folgte nun die Veröffentlichung einer Infoseite unter einmalzahlung200.de - auch dank einem durch die Telekom signierten SSL-Zertifikat ein seriöses Angebot, wie die FAQs aufklären.</p>
+
+<p>Informiert wird über die kommenden Schritte: Etwa sei für die Einreichung des Antrags ein »BundID-Konto« obligatorisch. Dieses könne man entweder per ELSTER-Zertifikat oder aber per eID mit dem beispielsweise Personalausweis erstellen. Die letzte Frage der FAQs erläutert zudem, dass, sollte man kein BundID-Konto auf diesen Wegen erstellen können, ein Antrag auch durch eine von der Hochschule oder Ausbildungsstätte ausgestellte PIN möglich sei. Die Verpflichtung zur Nutzung und Erstellung eines BundID-Kontos bleibe jedoch auch in diesem Falle bestehen.</p>
+
+<h2 id="die-bundid">Die BundID</h2>
+<p>Im Zuge des Onlinezuganggesetzes verfolgt die Bundesregierung die Strategie, bisherige Verwaltungsakte neben der analogen Form auch digital anzubieten. Ziel ist es, die Verwaltung zu beschleunigen und den Bürgerinnen eine Alternative zum Termin beim Amt zu geben. <a href="https://netzpolitik.org/2022/onlinezugangsgesetz-ohne-schnittstellen-ist-kein-digitaler-staat-zu-machen/">Während die Umsetzung bisher aber schleppend verläuft und es weder verbindliche noch einheitliche Schnittstellen gibt</a>, ist das Nutzerkonto Bund (BundID), welches durch das Bundesministerium für Inneres und Heimat (BMI) angeboten wird, das zentrale System für die Einrichtung und den Betrieb der Konten.</p>
+
+<p>Dieses unterscheidet dabei in drei verschiedene Vertrauensniveaus. Erfolgt die Anmeldung in die BundID lediglich per Nutzername und Passwort, so ist das die Basisregistrierung. Hier werden die hinterlegten Daten wie Anschrift, Name, Geburtsdatum und -ort nicht weiter verifiziert. Durch einen Login mit dem ELSTER-Zertifikat genießt man bereits ein »substantielles Vertrauensniveau« und durch die eID mit dem bspw. Personalausweis ein hohes. Welches Vertrauensniveau gefordert wird liegt im Ermessen der Behörde, gegenüber der man sich authentifizieren möchte. Soll der Antrag im Falle der Einmalzahlung sofort gestellt werden können, benötigt man ein substantielles oder hohes Vertrauensniveau. Erfolgt der Login nur per Basisregistrierung, so benötigt man die zusätzliche PIN. Wie diese genau zu erhalten ist, ist noch unklar, da man einen Missbrauch jedoch bestmöglich auszuschließen versucht, dürfte hierzu eine persönliche Authentifizierung vor Ort, etwa bei der jeweiligen Hochschule, zu erwarten sein.</p>
+
+<p>Auf der Seite zur Registrierung mit der BundID schreibt das BMI, dass »alle Verwaltungsleistungen auch ohne Anlegung eines dauerhaften Nutzerkontos analog (d. h. schriftlich oder vor Ort bei der Behörde)« zu beantragen sind. Diese Aussage widerspricht fundamental den Ausführungen in den FAQs auf einmalzahlung200.de. Eine Nachfrage an das BundID-Team des BMI, wie diese konträren Informationen zueinanderpassen, folgt nur eine ausweichende Antwort. So empfehle man für den Zweck der Beantragung der Einmalzahlung die Registrierung und verweist auf Hilfeseiten, lässt die Antwort zur Registrierungspflicht jedoch aus. Weitere Nachfragen, auch an das BMBF und MID bleiben bisher unbeantwortet.</p>
+
+<h2 id="die-aporie-der-zwangseinwilligung">Die Aporie der Zwangseinwilligung</h2>
+
+<p>Wieso also schreibt das BMI auf der Registrierungsseite diesen Text? Naheliegend wäre die Annahme, dass das Sinn der Strategie des Onlinezugangsgesetzes ist: Eine Ergänzung zum Analogen zu schaffen, ganz nach dem oft genannten Motto der Anreize statt Verbote.</p>
+
+<p>So beschreibt das bisherige Onlinezugangsgesetz in § 2 Abs. 5: »Die Verwendung von Nutzerkonten ist für die Nutzer freiwillig.« Die BundID fällt dabei eindeutig unter den Begriff des Nutzerkontos. In der Datenschutzerklärung zur BundID nennt das BMI die Rechtsgrundlage verweist auf Art. 6 Abs. 1 S. 1 lit. e DSGVO, wonach eine rechtmäßige Verarbeitung im Zusammenhang mit der »Wahrnehmung einer Aufgabe, die im öffentlichen Interesse liegt oder in Ausübung öffentlicher Gewalt erfolgt«.</p>
+
+<p>Der Datenschutzexperte Christian Aretz <a href="https://medium.com/@christian.aretz/die-zwangseinwilligung-9a0016f73ab4">stellt dabei fest</a>, dass das BMI die Verarbeitung auf geltendes Recht im Zusammenhang mit dem Onlinezugangsgesetz stützt. Entsprechend sei »mit Einwilligung der Nutzenden die dauerhafte Speicherung der Identitätsdaten in der BundID grundsätzlich zulässig«. Diese Einwilligung, so auch das BMI in der Datenschutzerklärung unter Punkt 11.1, ist dabei eine solche im Sinne des Art. 7 Abs. 3 DSGVO und dieser entsprechend müssten auch deren Anforderungen an eine Einwilligung erfüllt werden. Das setzt neben der eindeutigen bestätigenden Handlung und der Möglichkeit zum Widerruf aber auch ihre Freiwilligkeit voraus. Auch <a href="https://www.onlinezugangsgesetz.de/SharedDocs/downloads/Webs/OZG/DE/ozg-2-0-referentenentwurf-ozgaendg.html">in einer geplanten Änderung des OZG</a> wird diese Frewilligkeit zum Nutzerkonto weiter betont.</p>
+
+<p>Jurist Malte Engeler, derzeit abgeordnet an das Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz (BMUV), sieht das ähnlich und erinnert an die Diskussion um die CoronaWarnApp. »Hält der Staat eine Datenverarbeitung für erforderlich, muss er dafür eine Rechtsgrundlage schaffen«, schreibt er auf seinem Mastodon-Account unter <a href="https://legal.social/@malteengeler/109878859499295099">legal.social</a>. Denn so sei eine Einwilligung gegenüber Behörden, besonders, wenn es um Daseinsfürsorge gehe, »in der Regel mangels Freiwilligkeit ungeeignet« und verweist auf Erwägungsgrund Nr. 43 DSGVO. Dieser beschreibt der das klare Ungleichgewicht zwischen Betroffenen und Behörden. Ein solches mache eine freiwillige Entscheidung unwahrscheinlich, sodass diese letztlich keine Rechtsgrundlage mehr liefert.</p>
+
+<p>Hintergrund seien dabei nicht zuletzt auch rechtsstaatliche Gründe, wonach Verwaltungshandeln vorhersehbar und überprüfbar sein muss. Entsprechend müsse der Staat »die Erforderlichkeit seiner Datenverarbeitung objektiv, fair und überprüfbar benennen« und könne nicht, wie es mit einer Einwilligung der Fall wäre, staatliche Leistungen spontan an Bedingungen knüpfen und den Schutz vor Diskriminierung zur Sache des Individuums machen. Dabei sieht Engeler hierin auch »das verquere Ergebnis eines liberalen Datenschutzverständnis, das Datenschutz auf (informationelle) Selbstbestimmung verengt«. Dabei werde hier, wenn es um den »fairen und solidarischen Zugang zu staatlichen Leistungen« gehe, auch die gesamtgesellschaftliche Bedeutung der Regulierung von Datenschutz ignoriert.</p>
+
+<h2 id="bundid-als-mildestes-mittel">BundID als mildestes Mittel?</h2>
+<p>Ist eine entsprechende Rechtsgrundlage geschaffen, muss diese unter anderem dem Prinzip der Erforderlichkeit, also dass der gewählte Weg zweckmäßig, aber auch das mildeste Mittel darstellt, genügen. Durch die Möglichkeit eines Logins ohne ELSTER-Zertifikat oder eID könnte das bei einer engeren Auslegung allerdings nicht gegeben sein. Erfolgt der Login nämlich ohne das erhöhte Vertrauensniveau, so wird zur Antragsstellung eine durch die Hochschule ausgestellte PIN notwendig. Dann jedoch stellt sich die Frage, weshalb man den Login per BundID noch braucht - die durch den Login vom BMI übermittelten Daten an die Antragsplattform könnten nämlich ebenso durch die berechtigte Person selbst angegeben werden. Weil diese Eingabe dasselbe Level an Authentizität hat, ist die zusätzliche Verarbeitung der personenbezogenen Daten durch das BMI und das System um die BundID für diesen Weg nicht länger erforderlich. Das Argument anderer Vorteile, etwa der eines einheitlichen Logins, dürfte dabei eher schwach sein, wenn die Einrichtung zusätzlicher Formularfelder in der Antragsplattform zumutbar ist - für die PIN ist schon jetzt eines vorgesehen.</p>
+
+<h2 id="datenminimierung-durch-mehr-stellen">Datenminimierung durch mehr Stellen?</h2>
+<p>Weshalb also wird BundID überhaupt verwendet? Ein Grund hierfür dürfte in der beschriebenen Klassifikation in Vertrauensniveaus liegen. So kann einem Missbrauch durch die Vorgabe einer falschen Identität begegnet werden, da der physische Zugriff auf ein Ausweisdokument inklusive Kenntnis der PIN oder aber der Zugriff auf die ELSTER-Zertifikatsdatei eine höhere Hürde darstellen als die bloße Registrierung einer BundID mit ein paar personenbezogenen Daten.</p>
+
+<p>Die BundID ermöglicht zusätzlich aber auch die Freigabe sogenannter qualifizierter Attribute. Diese können auch vor Weitergabe an die entsprechende Plattform überprüft und eingesehen werden. Erst, wenn diese bestätigt werden, erfolgt die Weitergabe. Ähnliches kennt man bereits durch den Login per OAuth. Loggt man sich beispielsweise mit seinem Google-Account bei einer neuen Plattform ein, kann diese den Zugriff auf bestimmte Merkmale anfragen. Würde nun eine Plattform für Kochrezepte den Zugriff auf die Mails verlangen, so stellt sich die Frage, ob das für ihren Zweck überhaupt erforderlich ist und man tut gut daran, dies zu verweigern. Bei einer E-Mail-App ergibt sich naturgemäß eine andere Situation.</p>
+
+<p>Im Falle der digitalen Antragsplattform für die Einmalzahlung stellen sich vergleichbare Fragen:<br />
+Etwa, ob der Zugriff auf das Geburtsdatum und -ort oder aber die vollständige Adresse von Relevanz ist. Laut EPPSG sind beispielsweise alle Studierenden (exklusive Gasthörende) mit Wohnsitz oder gewöhnlichem Aufenthalt in Deutschland antragsberechtigt. Gibt man bereits dem BMI mit der BundID den Wohnsitz, ist das nun in der Lage, zu prüfen, ob der Wohnsitz in Deutschland liegt oder nicht. Diese Information in Form der vollständigen Anschrift auf der digitalen Antragsplattform erneut zu hinterlegen ist daher nicht erforderlich, wenn durch BundID bereits bestätigen werden kann, dass der Wohnsitz in Deutschland liegt. Erst dann, wenn das nicht der Fall ist und sich die Frage des gewöhnlichen Aufenthalts stellt, müsste man der Antragsplattform weitere Informationen bereitstellen.</p>
+
+<h2 id="gefahr-zur-überauthentifizierung">Gefahr zur Überauthentifizierung</h2>
+<p>Dieses Konzept der »selbstbestimmten Identitäten« ist seit Jahren Thema netzpolitischer Diskussionen und wird auch durch Vorstöße rund um die europäische eIDAS-Verordnung und ID-Wallet befeuert.
+Gemeinsam verfolgen nationale wie internationale Lösungen den Prozess einfacher, sicherer und datenschutzfreundlicher Authentifikation. Bei BundID verläuft das bisher jedoch noch langsam, <a href="https://www.onlinezugangsgesetz.de/Webs/OZG/DE/themen/ozg-infrastruktur/nutzerkonten/nutzerkonten-node.html">gab es Mitte September letzten Jahres nur 200.000 registrierte Konten</a>. Auf aktuelle Zahlen konnte man <a href="https://www.bundesregierung.de/breg-de/aktuelles/pressekonferenzen/regierungspressekonferenz-vom-17-februar-2023-2166458">am 17. Februar</a> noch nicht verweisen. Den in sozialen Medien diskutierten Vorwurf einer Popularisierungsstrategie von BundID durch die digitale Antragsplattform zur Einmalzahlung wies man von Bundesseite jedoch zurück.</p>
+
+<p>Anne Roth, Referentin in Sachen Netzpolitik im Deutschen Bundestag, führt <a href="https://netzpolitik.org/2023/einmalzahlung-an-studierende-verpflichtung-zur-bundid/">netzpolitik.org gegenüber aus</a>, dass Studierende wie Fachschülerinnen und Fachschüler das Geld dringend bräuchten und hier wenig Protest zu erwarten sei. Entsprechend sehe sie auch nicht als Zufall, dass man eben jene Gruppe zum BundID-Login zwingt.</p>
+
+<p>Durch die einfache und niederschwellige Möglichkeit zur Authentifizierung könnte der bewusste Prozess des Ausweisens zu einem Automatismus werden. So findet Netzaktivistin Lilith Wittman, dass das zwar einerseits die Grundlage für eine gute Funktionalität von digitalen Verwaltungsprozessen sein kann, andererseits aber auch die Schwelle für verpflichtende Authentifizierung herabsetzt, wenn es bereits ein etabliertes Verfahren gibt. (https://lilithwittmann.medium.com/mit-dem-personalausweis-zum-onlineshopping-wie-selbstbestimmt-sind-selbstbestimmte-identit%C3%A4ten-f096a5bdd55a)</p>
+
+<p>Werden staatlich signierte Daten, die dann bei diversen Anbietern gespeichert sind, gestohlen, wären diese für Kriminelle besonders wertvoll - schließlich sind sie ja garantiert richtig. Die Beschränkung auf qualifizierte Attribute etwa »volljährig« oder »deutscher Wohnsitz« kann dieses Risiko reduzieren. Deren sparsame Implementierung müsste aber auch rechtlich durchgesetzt und kontrolliert werden - im Zusammenhang mit der europäischen ID-Wallet ist das <a href="https://netzpolitik.org/2023/eidas-2-0-beim-europaeischen-id-wallet-droht-die-ueberidentifikation/">immer wieder Thema</a>.</p>
+
+<h2 id="die-uni---der-eigentliche-dezentrale-gatekeeper">Die Uni - der eigentliche, dezentrale Gatekeeper</h2>
+<p>Die Rolle der Weitergabe qualifizierter Attribute nehmen bereits heute die Hochschulen gegenüber diversen Stellen ein. Ob im Rahmen von an Studierende gerichteten Angeboten oder aber bei einem Verlag zum Vollzugriff auf Bücher oder andere Online-Ressourcen: Oft erfolgt der Login mit dem Unikonto und die Hochschule bestätigt datensparsam und teilweise pseudonymisiert den Studierendenstatus.</p>
+
+<p>Dadurch, dass die letzte Instanz des gesamten Antragsprozesses die Hochschulen und Ausbildungsstätten sind, bleibt der genaue Vorteil durch BundID noch unklar. So bleibt es die genauen Verordnungen oder Gesetze der Länder diesbezüglich noch abzuwarten. Ist die Hochschule jedoch das schwächste Glied in der Authentifizierung und würde die PIN-Abfrage mit dem eigenen Unikonto erlauben, so wäre das gesamte Konzept rund um BundID obsolet und entsprechend nichts als ein unnötig komplizierter Weg - ohne Rechtsgrundlage.</p>
+
+<p>Je nach Ausgestaltung der Regeln durch die Länder dürfte die Lage also äußerst spannend bleiben. Ein komplexes Themenfeld ist es bereits jetzt schon, das besonders von rechtlicher Seite weiter intensiv behandelt werden dürfte.</p>
+
+<p>Das BMBF ist sich jedenfalls sicher, dass es keine größeren rechtlichen Bedenken, auch von Datenschutzseite gibt. Zwar nennt man die Lage »<a href="https://twitter.com/BMBF_Bund/status/1626535864573562887?s=20">rechtlich wie technisch komplex</a>«, verantwortlich, wenn es sich weiter verzögert, sollen damit aber die Länder sein. Ob diese mit ihrer Arbeitsgrundlage zufrieden sind, wird sich zeigen.</p>
+
+<p>Auch der Bundesbeauftragte für den Datenschutz und die Informationsfreiheit (BfDI) stimmt in den Tenor der Länderzuständigkeit ein. Inwieweit diese die Muster-Verordnung aus der Bund-Länder-Runde umsetzen und auch datenschutzfreundlichere Alternativen schaffen, unterliege nicht der Einflussnahme der obersten Bundesbehörde.</p>
+
+<p>Dass es bereits jetzt eine langanhaltende Tradition ist, immer wieder neue Möglichkeiten für die Datenerhebung zu schaffen, die sich später als rechtswidrig herausstellten, hielt man erst kürzlich fest (https://www.bfdi.bund.de/SharedDocs/Pressemitteilungen/DE/2023/05_Kritik_Datenverarbeitung.html). Das müsse sich dringend ändern, sonst drohe die Gefahr, das Vertrauen in die Gesetzgebung auf Bürgerebene zu verlieren.</p>
+
+<h2 id="ergänzendes">Ergänzendes</h2>
+<p>Entsprechende Anfragen an die zuständigen Stellen, die einige behandelte Hintergründe dieses Artikels klären sollten, sind hier zu finden:<br />
+	- An das BMI - https://fragdenstaat.de/anfrage/einmalzahlung200-de-2/
+	- An das MID - https://fragdenstaat.de/anfrage/einmalzahlung200-de-1/</p>]]></content><author><name></name></author><summary type="html"><![CDATA[Bereits Anfang September 2022 wurde im Rahmen des dritten Entlastungpakets eine Einmalzahlung in Höhe von 200€ für Studierende wie Fachschülerinnen und Fachschüler beschlossen - diese lässt aber bis heute auf sich warten. Im November, nur zwei Tage nachdem das Statistische Bundesamt (destatis) den Anteil der armutsgefährdeten Studierenden auf knapp 38% im Jahr 2021 bemaß, wurden die Pläne endlich konkreter.]]></summary></entry><entry><title type="html">Wie der Emissionshandel durch die THG-Quote funktioniert und was gefährliche E-Scooter-Umbauten damit zu tun haben</title><link href="https://conamara.eu/2022/12/30/THG-Quote_f%C3%BCr_Klein-_und_Kleinstfahrzeuge.html" rel="alternate" type="text/html" title="Wie der Emissionshandel durch die THG-Quote funktioniert und was gefährliche E-Scooter-Umbauten damit zu tun haben" /><published>2022-12-30T00:00:00+01:00</published><updated>2022-12-30T00:00:00+01:00</updated><id>https://conamara.eu/2022/12/30/THG-Quote_f%C3%BCr_Klein-_und_Kleinstfahrzeuge</id><content type="html" xml:base="https://conamara.eu/2022/12/30/THG-Quote_f%C3%BCr_Klein-_und_Kleinstfahrzeuge.html"><![CDATA[<h1 id="inhalt">Inhalt</h1>
+<ol>
+  <li>Was ist die Treibhausgasminderungsquote (THG-Quote)?</li>
+  <li>Wo beantragt man die THG-Prämie?</li>
+  <li>Die THG-Prämie und zulassungspflichtbefreite Fahrzeuge
+    <ol>
+      <li>Personalknappheit und gefährliche E-Scooter-Kennzeichen</li>
+      <li>Kosten der freiwilligen Zulassung</li>
+    </ol>
+  </li>
+  <li>TL;DR</li>
+  <li>Quellen / Literatur / Archiv</li>
+</ol>
+
+<h1 id="was-ist-die-treibhausgasminderungsquote-thg-quote">Was ist die Treibhausgasminderungsquote (THG-Quote)?</h1>
+
+<p>Kurz und knapp: Die Verpflichtung für Mineralölkonzerne, die relativen Emissionen ihrer vertriebenen Kraftstoffe zu verringern. Entweder sie bieten selbst ausreichend Biokraftstoffe an oder aber müssen sich die »eingesparten Emissionen« anderer einkaufen.
+Dass Einsparungen nicht wirklich solche sein müssen, zeigt sich in den nahezu gleichbleibenden Emissionen von CO2-Äquivalenten im Straßenverkehr. [1]
+Zwar wurden Verbrennungsmotoren, auch durch Downsizing, in den letzten Jahrzehnten stets effizienter, mehr Verkehr und die Nutzung größerer und schwererer Fahrzeuge gleichen diesen Effekt jedoch weitestgehend aus. Dabei geht die Rechnung des Umweltbundesamts nur dann auf, wenn die Einsparungen auch tatsächlich erfolgen und entsprechend weniger fossile Kraftstoffe verbraucht werden.</p>
+
+<p>Grundlage für die Treibhausgasminderungsquote ist eine Änderung des Bundes-Immissionsschutzgesetzes, das Unternehmen, die Kraftstoffe vertreiben, zur Reduktion ihrer KraftstoffEmissionen verpflichet. Diese Reduktion muss einerseits durch eine relative Mindestmenge von Biokraftstoffen, bei welchen davon ausgegangen wird, dass sie ihre Emissionen durch das Binden von CO2 beim Wachsen bereits ausgeglichen haben, erfolgen. Andererseits reichen Biokraftstoffe kaum aus und ihre Anbaumöglichkeiten sind begrenzt, sodass die Unternehmen praktisch auch Emissionen handeln müssen. Rechtsgrundlage ist hier § 37a des Bundes-Immissionsschutzgesetzes (BImSchG) [2].</p>
+
+<p>Dementsprechend ist für die Berechnung nicht nur der Strommix Deutschlands mit seinen CO2-Äquivalenten je Energieeinheit [3] relevant, sondern auch der vermutete Anteil des nicht-öffentlichen Ladens. Da öffentliche Ladesäulenbetreiber ihre »Einsparungen« bereits selbst verkaufen können, ermöglichen diese Mineralölkonzernen zwar ebenfalls den Kauf von »Emissionsrechten«, sind für diesen Beitrag, der den Verkauf der Einsparungen durch Halterinnen von Elektrofahrzeugen (THG-Prämie) behandelt, nicht weiter Thema.</p>
+
+<p>Je emissionsärmer der Strommix wird, umso größer fällt die errechnete Einsparung aus, aber umso mehr Fahrzeuge öffentlich laden - etwa durch den Verzicht auf eine private Wallbox durch die Möglichkeit des Schnellladens beim nächsten Supermarkteinkauf - desto geringer wird sie für Halterinnen auch wieder. Da Mineralölkonzerne jedoch bis 2030 die relativen Emissionen ihrer vertriebenen Kraftstoffe um ein Viertel mindern müssen, sollte die Nachfrage mit einem Hinauszögern des Umstiegs auf Elektrofahrzeuge ersteinmal ansteigen. Für den Fall eines rapiden Umstiegs und dem damit verbundenen höheren Energiebedarf von Elektrofahrzeugen ist eine Erhöhung der THG-Quote für die kommenden Jahre vorgesehen. (§37h BImSchG) Wie genau sich dies allerdings auf den Marktpreis beim Handel von CO2-Äquivalenten auswirkt, ist schwer zu sagen.</p>
+
+<p>Für Elektrofahrzeuge ergibt sich auf Basis der Annahme des UBAs von 2000kWh Verbrauch im nicht-öffentlichen Ladenetz (Bussen und leichten Nutzfahrzeugen werden andere Verbräuche zugrunde gelegt) [3] die Einsparung von durchschnittlich 704kg CO2-Äquivalenten für den Strommix 2022. 2017 betrug der geschätzte Bedarf noch 1943kWh [4].</p>
+
+<p>Je Kilogramm CO2-Äquivalent, das ein Mineralölkonzern zu viel Emittiert, muss er seit 2022 Strafzahlungen in Höhe von 60ct, zuvor 47ct, leisten.
+Dieser Wert ergibt sich aus § 37c Abs. 2 des Bundes-Immissionsschutzgesetzes [5]. Damit diese Strafzahlung nicht droht, kann er unter anderem vorab entsprechende Einsparungen durch bspw. Elektrofahrzeughalterinnen kaufen. Somit ergibt sich ein maximaler Marktwert von 0,60€/kg * 704kg = 422,40€ für 2023.</p>
+
+<p>Die aktuelle Berechnung des Marktpreises der damit erhaltbaren THG-Prämie wird hier [6] praxisnah aufgeschlüsselt.</p>
+
+<p>Es kann darum auch sein, dass mit zunehmender Zulassung von von der Zulassungspflicht befreiten Fahrzeugen der angenommene Verbrauch des Umweltbundesamts sinkt oder aber - und dies scheint naheliegender - kleine Elektrofahrzeuge durch das Umweltbundesamt separat aufgeführt werden, sodass diesen ein geringerer Verbrauch zugrunde gelegt wird und diese damit auch eine verringerte Prämie erhalten. Paradoxerweise wäre dabei jedoch der Umstieg von einem Auto mit Verbrennungsmotor hin zu einem Elektroroller - wenigstens in den warmen Monaten - eine tatsächliche und erhebliche Emissionseinsparung.</p>
+
+<h1 id="wo-beantragt-man-die-thg-prämie">Wo beantragt man die THG-Prämie?</h1>
+
+<p>Da der Beitrag zum Klimaschutz durch die THG-Quote - nicht zuletzt auch aufgrund der geringen Ambition von maximal einem Viertel weniger Einsparungen vertriebener Kraftstoffe - bezweifelt werden kann: verbietet es sich da nicht moralisch, persönlich zu profitieren und auch noch weitere Emissionen zu legitimieren?</p>
+
+<p>Einerseits ist es zwar plausibel, dass die THG-Quote und die damit verbundene Prämie, die man durch sein eigenes Elektrofahrzeug verdienen kann, für den Klimaschutz unmittelbar nicht wirklich konstruktiv ist, mittelbar jedoch lässt sich das erhaltene Geld aber auch für echten und nachhaltigen Klimaschutz oder andere gute Dinge spenden. Nun muss man nicht so weit gehen und sagen, es bestünde eine moralische Verpflichtung plötzlich E-Scooter zu kaufen und sie freiwillig zuzulassen, damit man bis 2030 das ganze Geld spenden kann, aber es wäre durchaus zu kurz gedacht, sich hinter vorgeschobenen Prinzipien, sich an Symbolpolitik nicht zu beteiligen, zu verstecken.</p>
+
+<p>Tatsächlich bieten viele Anbieter der THG-Prämie eine Möglichkeit zur direkten Spende an, was uns nun zur Frage führt, wo ich denn meine Emissionseinsparungen am besten in Geld umwandle.</p>
+
+<p>Die THG-Prämie kann man selbst nicht (oder wenigstens nicht so einfach) beim Umweltbundesamt direkt beantragen. Ebenfalls überweist einem auch das Umweltbundesamt keine Prämie. Vielmehr gewährt es das Zertifikat für die eingesparten Emissionen des Fahrzeugs, welches dann gehandelt werden kann. Dieser Prozess wird von diversen Anbietern übernommen. Eine kurze Recherche sollte hier einen Überblick geben - aus Neutralitätsgründen enthält dieser Beitrag keine Empfehlung. Einige Anbieter verlangen jedoch eine mehr oder minder hohe Provision, bieten direkt Spendemöglichkeiten an oder werben mit der Auszahlung für mehrere Jahre auf einmal.</p>
+
+<p>Zur Beantragung muss lediglich die Vorderseite der Zulassungsbescheinigung I (»Fahrzeugschein«) hochgeladen werden. Der Anbieter übermittelt dann den Scan an das Umweltbundesamt, das verifiziert, dass in diesem Jahr durch dieses Fahrzeug noch keine Registrierung erfolgte. Entweder schüttet dann der Anbieter einen vorab vereinbarten Betrag aus oder verkauft die Emissionen direkt, womit die Ausschüttung vom aktuellen Marktpreis bestimmt wird. Der gesamte Prozess dauert - auch durch die Verifikation der Zulassungsbescheinigung I durch das Umweltbundesamt - einige Monate und kann bei gleichbleibender Rechtslage bis 2030 jährlich wiederholt werden.</p>
+
+<h1 id="die-thg-prämie-und-zulassungspflichtbefreite-fahrzeuge">Die THG-Prämie und zulassungspflichtbefreite Fahrzeuge</h1>
+
+<p>Während Autos, Motorräder, LKWs, etc. einer Zulassungspflicht unterliegen, entfällt diese gemäß § 3 Abs. 2 Nr. 1 Fahrzeugzulassungsverordnung [7] für Kleinkrafträder als auch Elektrokleinstfahrzeuge wie E-Scooter. Zwar sind auch Leichtkrafträder zulassungsfrei, da man für sie aber dennoch ein amtliches Kennzeichen benötigt und sie auch der Hauptuntersuchungspflicht unterliegen, sind sie in aller Regel zugelassen und haben bereits eine Zulassungsbescheinigung. In diesem Fall kann diese ebenso wie beim Elektroauto auch, direkt bei einem Anbieter der Wahl eingereicht werden.</p>
+
+<p>Für Kleinkrafträder und E-Scooter wird für die Fahrt auf öffentlichen Straßen jedoch lediglich ein Versicherungskennzeichen und die damit einhergehende Haftpflichtversicherug als auch die EG-Konformitätsbescheinigung des Herstellers benötigt, die die Erfüllung der EU-Vorschriften bestätigt. Somit sind diese in aller Regel nicht zugelassen, können jedoch aber auf Antrag (§ 3 Abs. 3 der Fahrzeugzulassungsverordnung (FZV)) [7] zugelassen werden.</p>
+
+<p>Hierfür notwendig ist dann die EG-Konformitätsbescheinigung, eine Versicherung, die einem eine eVB-Nummer zur Verfügung stellt, ein passender Kennzeichenhalter mit Beleuchtung und Rückstrahler, wenn dieser noch nicht anderweitig befestigt ist und einen Termin bei der örtlichen Kraftfahrzeugzulassungsstelle. Bei älteren oder umgebauten Fahrzeugen kann die Zulassungsstelle gemäß §5 Abs. 3 FZV anzweifeln, dass das Fahrzeug nicht vorschriftsmäßig im Sinne der FZV ist und ein entsprechendes Gutachten über die Vorschriftsmäßigkeit anfordern.</p>
+
+<h2 id="personalknappheit-und-gefährliche-e-scooter-kennzeichen">Personalknappheit und gefährliche E-Scooter-Kennzeichen</h2>
+
+<p>Durch die THG-Prämie bietet sich, abseits einer Versicherung, die einem über die Jahre einen höheren Schadenfreiheitsrabatt und damit weniger Gebühren sowie Aufwand durch Kennzeichenwechsel ermöglicht, die Option auch noch Geld zu verdienen (oder es zu spenden).
+Da man auch Elektrokleinstfahrzeuge wie E-Scooter zulassen kann, die bereits für wenige hundert Euro zu haben sind und sich somit bereits nach gut zwei Jahren armortisiert hätten, bietet sich hier naturgemäß ein gutes Missbrauchs- bzw. Zweckentfremdungspotential.</p>
+
+<p>Zwar ist es ebenso möglich alte Elektrokleinkrafträder zu kaufen, sie einmalig zuzulassen und so mit günstig erworbenen und defekten Fahrzeugen über die Jahre auf einen Nebenerwerb zu spekulieren. Doch könnte - so die Argumentation in den Behörden - auch das Anbringen eines großen Motorradkennzeichens an einem E-Scooter ein Sicherheitsrisiko darstellen, das es, neben dem erhöhten Personalaufwand für Zulassungsstellen, zu verhindern gilt.</p>
+
+<p>So soll mit der Neufassung der Fahrzeugzulassungsordnung - ein Entwurf ist auf der Seite des BMDVs zu finden [8] - die freiwillige Zulassung von Elektrokleinstfahrzeugen wie E-Scootern nicht mehr möglich sein. Ein Treffen des Bund-Länder-Fachausschusses „Fahrzeugzulassung“ mit einem Tagesordnungspunkt zur freiwilligen Zulassung [9] gibt hierbei Einblick in die Sicht der Behörden.</p>
+
+<p>Dabei wird der Anstieg der freiwilligen Zulassungen auf die THG-Prämie und die Option des Schadensfreiheitsrabatts durch Versicherer zurückgeführt. Somit enstünden ein nicht dagewesener Verwaltungsaufwand in den Zulassungsstellen als auch »praktische Probleme bei der Kennzeichenzuteilung« selbst.</p>
+
+<p>Zwar ist zu hinterfragen, ob die freiwillige Zulassung wirklich »zu einer überdurchschnittlichen Bindung von personellen Kapazitäten« führt, da, einmal zugelassen, kein weiterer Besuch notwendig ist, ein Wechsel von einem eigenen Auto hin zu Carsharingangeboten und einem Kleinkraftrad nicht nur Teil der Mobilitätswende wäre, sondern auch gleichzeitig zu einer Entlastung der Zulassungsstellen führen dürfte.</p>
+
+<p>Das Argument der praktischen Probleme ist jedoch kritikwürdiger:<br />
+So soll die Anbringung eines allgemeinen Kennzeichens besonders bei E-Scootern zu einer Änderung des Umrisses führen, da dieses breiter und höher als das übliche Versicherungskennzeichen oder gar der nochmals größenreduzierte Sticker ist. Da § 30c Abs. 1 der StVZO vorsieht, dass keine Teile so hervorragen, dass sie den Verkehr mehr als unvermeidbar gefährden, müsse man stets sicherstellen, dass das nicht der Fall ist. Allerdings hat die Zulassungsstelle die Möglichkeit eine Abnahme durch den TÜV anzuordnen - dasselbe gilt für die sonst nicht obligatorische Kennzeichenbeleuchtung.</p>
+
+<p>Insofern kann die freiwillige Zulassung durch wiederholte notwendige Besuche bis zur erfolgreichen Zulassung durchaus einen erhöhten Personalaufwand bedeuten - dass eine Gefährdung des Straßenverkehrs aber wahrscheinlich ist, kann durch die Anordnungsmöglichkeit einer TÜV-Abnahme allerdings bezweifelt werden.</p>
+
+<p>Zwar hat auch der Staat somit einen höheren Verwaltungsaufwand, ein vermutlich aufgrund der Regelmäßigkeit höherer wird bisher aber durch sämtliche Versicherungsmaklerinnen übernommen, die jährlich ein neues Versicherungskennzeichen austeilen müssen. Volkswirtschaftlich ist hier also kaum etwas verloren. Auch stellt sich, so auch das Land Schleswig-Holstein, die Frage, ob es Aufgabe der Länder durch Dienstanweisungen oder die des Bundes durch das Ausschließen der Zulassungsmöglichkeit für Elektrokleinstfahrzeuge ist, ein Ausnutzen der THG-Quote zu verhindern. Denn für die Berechnung der eingesparten CO2-Äquivalente auf Basis des geschätzten Energiebedarfs ist, wie eingangs ausgeführt, das Umweltbundesamt verantwortlich. Diesem soll das Problem von Großkundenzulassungen bekannt sein.</p>
+
+<p>Weiter kann man die Kompetenz der Länder durch § 46 Abs. 1 der FZV hinsichtlich Dienstanweisungen und Einschränkungen für Zulassungsstellen in Bezug auf eine freiwillige Zulassung gegeben sehen, da dort aber von Einzelfällen die Rede ist, kann man ebenso bezweifeln, dass die Länder die allgemeine Weisung zur Ablehnung von Anträgen, die alle geforderten Vorschriften der Zulassung erfüllen, erteilen dürfen. In Rheinland-Pfalz ist vorgesehen, dass die Zulassung nur entsprechend der Größe des Haushalts für Privatpersonen und für Firmen nur, soweit deren Mitarbeiter auch in Rheinland-Pfalz ansässig sind, möglich ist. Niedersachsen verfährt hier ähnlich.
+In Berlin ist neben geforderten Gutachten über die Fahrzeuge auch die Vorführung bei der Zulassungsstelle obligatorisch - seitdem soll es keine weiteren Anfragen von Großkunden mehr geben.</p>
+
+<p>In Bayern wird, mit Blick auf die Neufassung der FZV, die Weisung erteilt, die Zulassungsanträge zurückzustellen.</p>
+
+<p>Bundesweit prüft das Kraftfahrtbundesamt, inwieweit Umbauten für Kennzeichenhalterungen die Gültigkeit der Betriebserlaubnis beeinflussen.</p>
+
+<p>Allgemein scheint die freiwillige Zulassung in diversen Bundesländern jedoch eine Einzelfallentscheidung zu sein, dass eine bundesweite Regelung getroffen wird, ist nicht zuletzt auch durch die kommende Neufassung der Fahrzeugzulassungsordnung und die damit verbundene Exklusion von E-Scootern, zu erwarten.</p>
+
+<p>Die Zulassungsstelle der Stadt Karlsruhe verlangt zur Zulassung bisher die Installation eines Kennzeichenhalters in ausreichender Größe sowie die Demonstration der Kennzeichenbeleuchtung bei einer Vorführung vor Ort. Bei Bedarf wird auch der Besuch beim TÜV notwendig. Auch soll es seitens des Regierungspräsdiums die Dienstanweisung geben, Anträge, die aufgrund der THG-Prämie gestellt werden, abzulehnen. Da das aber nicht generell unterstellt werden kann, können Fahrzeuge dennoch zugelassen werden.</p>
+
+<p>Anfragen per LIFG bezüglich der Dienstanweisungen waren bisher jedoch erfolglos. Über die öffentlich einsehbare Mailadresse der Zulassungsstelle erfolgte keine Antwort; an eine weitere Mailadresse, welche man vor Ort erhält, wurde eine entsprechende Anfrage erst vor Kurzem gestellt. Da das Regierungspräsidium in Stuttgart nicht für Karlsruhe zuständig ist und nur andere Dienstanweisungen herausgab [10], sollten die Zulassungsstellen in Stuttgart noch keine pauschalen Prozesse zur Ablehnung von Anträgen haben.</p>
+
+<p>Das Regierungspräsidium Karlsruhe leugnet den Versand jeglicher Dienstanweisungen oder anderer - auch unverbindlicher - Anweisungen an Zulassungsstellen in den vergangenen Monaten. Das widerspricht zwar den Aussagen einer Sachbearbeiterin in der Zulassungsstelle selbst, vielleicht ergibt sich unter diesem Verweis aber eine Kehrtwende. Eine entsprechende Anfrage kann hier [11] verfolgt werden.</p>
+
+<p>Die wohl beste Übersicht über den aktuellen Stand findet sich in der oben zitierten Anfrage [9] an das Regierungspräsidiumspräsidium Darmstadt, die auch ein Protokoll des Ausschusstreffens erhielt.</p>
+
+<h2 id="kosten-der-freiwilligen-zulassung">Kosten der freiwilligen Zulassung</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>Posten</th>
+      <th>Kosten</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Neuzulassung</td>
+      <td>27€</td>
+    </tr>
+    <tr>
+      <td>Klebesiegel (2 Stück)</td>
+      <td>1,80€</td>
+    </tr>
+    <tr>
+      <td>Wunschkennzeichen</td>
+      <td>10,20€</td>
+    </tr>
+    <tr>
+      <td>Reservierung Wunschkennzeichen</td>
+      <td>2,60€</td>
+    </tr>
+    <tr>
+      <td>Zulassungsbescheinigung II / KBA Gebühr</td>
+      <td>3,80€</td>
+    </tr>
+    <tr>
+      <td>nicht getyptes Fahrzeug</td>
+      <td>15,30€</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td><strong>Gesamtkosten Zulassung (best/worst) case</strong></td>
+      <td><strong>33,50€/60,70€</strong></td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>Kennzeichenhalter (best/worst) case</td>
+      <td>20€/56,98€</td>
+    </tr>
+    <tr>
+      <td>Kennzeichen (Keines für Leichtkrafträder!)</td>
+      <td>15€</td>
+    </tr>
+    <tr>
+      <td>Versicherung mit eVB (best/worst) case</td>
+      <td>66€/127,50€</td>
+    </tr>
+    <tr>
+      <td>ggf. TÜV</td>
+      <td>~70€</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td><strong>Gesamtkosten im ersten Jahr (best/worst) case:</strong></td>
+      <td><strong>134,50€/330,18€</strong></td>
+    </tr>
+  </tbody>
+</table>
+
+<p>Durch die Neuzulassung muss auch eine Zulassungsbescheinigung II erteilt werden. Diese ist damit etwas teurer als eine Ummeldung eines bereits einmal zugelassenen Fahrzeugs. Im konkreten Fall musste auch der Typ neu bestimmt werden und da es den Hersteller nicht mehr gibt, bzw. er aufgekauft wurde, ergaben sich erhöhte Kosten. Für ein Wunschkennzeichen mit Reservierung werden ebenfalls Kosten fällig, diese sind jedoch nicht notwendig.</p>
+
+<p>Falls man noch keinen passenden Kennzeichenhalter hat, muss auch dieser besorgt werden - mit Glück findet man einen passenden für 20€ auf Amazon oder eBay. Beim Kauf im Motorradfachgeschäft kann man höhere Preise erwarten. Für eine angepasstere Lösung wie etwa für E-Scooter dürfte man 
+auf ähnliche Beträge kommen.</p>
+
+<p>Bei einer Versicherung mit Halter und nur Fahrern ab 23 Jahren ist eine passende Versicherung schon ab ca. 66€ im ersten Jahr mit SF0 zu bekommen. Andernfalls zahlt man vorerst erheblich mehr. Im Vergleich zur reinen Haftpflicht ohne Zulassung und damit eVB-Nummer ist der Unterschied aber nicht allzu drastisch. Wird die Abnahme der Anbauten durch den TÜV verlangt, so muss man auch hier je nach Aufwand mit Kosten von etwa 70€ rechnen. Sollte das Fahrzeug sonstige Anbauten haben, die der TÜV nicht eintragen will, kommen noch die Kosten bzw. der Aufwand des Rückbaus hinzu.</p>
+
+<p>Somit kann eine Zulassung fast so teuer werden wie die Ausschüttung der THG-Prämie überhaupt, ein Kapital zum Spenden bleibt so kaum. Im besten Fall kommt man jedoch auf etwa 135€ und ist bei einem nicht allzu optimistischen Marktpreis von 300-350€ somit wenigstens bei knapp 200€ Überschuss.</p>
+
+<p>Bei einer Zulassung gegen Jahresende ist es aber möglich, im ersten Jahr der Versicherungskosten die Prämie für das Folgejahr mitzubeantragen.
+Einmal zugelassen müssen jedoch nur noch die laufenden Versicherungskosten bezahlt werden, die angesichts steigender Schadensfreiheitsrabatte langfristig kaum höher als die Versicherung ohne eVB-Nummer sein dürften. Ebenfalls entfällt der Mehraufwand des jährlichen Kennzeichenwechsels und Vertragsabschlusses.</p>
+
+<h1 id="tldr">TL;DR</h1>
+
+<p>Die THG-Quote und die damit verbundene Möglichkeit des Prämienerhalts durch den Verkauf von errechneten Einsparungen an Mineralölkonzerne ist für sich genommen weder eine gute Tat, noch im ersten Jahr eine lukrative Angelegenheit. Durch die Option, die Prämie aber zu spenden, kann man dem eigentlich fraglichen Emissionshandel vielleicht aber auch etwas Gutes abgewinnen. Ebenfalls kann die freiwillige Zulassung für einen selbst weniger Aufwand und Kosten mit sich bringen, wenngleich unklar ist, ob es die Möglichkeit in Zukunft (für E-Scooter sicher nicht mehr) noch geben wird. Auch wird es wohl kaum zu kritisieren sein, sich zum Vorantreiben der Mobilitätswende ein Elektrokleinkraftrad (oder E-Scooter) zuzulegen, das sich über die Jahre allein durch Prämien armortisiert, sofern es denn auch genutzt wird und darum auch mehr einsparen dürfte als ein Elektroauto. Für dieses gibt es die Prämie ebenfalls, den »Geist der Prämie« trifft man allerdings ebenso wenig, wenn man nur öffentlich und nicht an der heimischen Wallbox lädt.
+Die große Personalengstelle in den Zulassungsstellen dürfte sich mit den kommenden Jahren, da es überhaupt erst seit 2022 möglich ist, die THG-Prämie zu erhalten, ebenfalls legen und dass es einerseits ein nicht vertretbares Risiko ist, ein Kennzeichen an einem E-Scooter zu haben, weil hier der Umriss des Fahrzeugs vergrößert wird, kann man bedenkenlos ignorieren, wenn man andererseits den SUV-Boom mitansehen muss.</p>
+
+<h1 id="quellen--literatur--archiv">Quellen / Literatur / Archiv</h1>
+<h2 id="quellen">Quellen:</h2>
+
+<ul>
+  <li>[1] Wilke, Sibylle: Spezifische Emissionen des Straßenverkehrs. In: Umweltbundesamt, https://www.umweltbundesamt.de/daten/verkehr/emissionen-des-verkehrs, Datum des Zugriffs: 30.12.2022.</li>
+  <li>[2] § 37a BImSchG - Einzelnorm. https://www.gesetze-im-internet.de/bimschg/__37a.html, Datum des Zugriffs: 30.12.2022.</li>
+  <li>[3] Meunier, Corinne: Vollzug 38. BImSchV: Anrechnung von Strom für Elektrofahrzeuge. In: Umweltbundesamt, https://www.umweltbundesamt.de/themen/verkehr-laerm/kraft-betriebsstoffe/vollzug-38-bimschv-anrechnung-von-strom-fuer, Datum des Zugriffs: 30.12.2022.</li>
+  <li>[4] Wayback Machine. https://web.archive.org/web/20210925073718/https://www.umweltbundesamt.de/sites/default/files/medien/376/dokumente/bekanntmachung_des_schaetzwertes_der_anrechenbaren_energetischen_menge_elektrischen_stroms_fuer_ein_reines_batterieelektrofahrzeug.pdf, Datum des Zugriffs: 30.12.2022.</li>
+  <li>[5] § 37c BImSchG - Einzelnorm. https://www.gesetze-im-internet.de/bimschg/__37c.html, Datum des Zugriffs: 30.12.2022.</li>
+  <li>[6] THG Quote – 100% Prämie – Kostenloser Service. In: INSTADRIVE THG Service, https://thg.insta-drive.com/de/#tve-jump-1853a068666, Datum des Zugriffs: 30.12.2022.</li>
+  <li>[7] § 3 FZV - Einzelnorm. https://www.gesetze-im-internet.de/fzv_2011/__3.html, Datum des Zugriffs: 30.12.2022.</li>
+  <li>[8] BMDV - Verordnung zum Neuerlass der Fahrzeug-Zulassungsverordnung und zur Änderung weiterer Vorschriften. https://bmdv.bund.de/SharedDocs/DE/Anlage/Gesetze/Gesetze-20/verordnung-neuerlass-fahrzeug-zulassungsverordnung.html, Datum des Zugriffs: 30.12.2022.</li>
+  <li>[9] Freiwillige Zulassung von Elektrokleinstfahrzeugen/Kleinkrafträdern. https://fragdenstaat.de/anfrage/freiwillige-zulassung-von-elektrokleinstfahrzeugen-kleinkraftraedern-1/, Datum des Zugriffs: 30.12.2022.</li>
+  <li>[10] Dienstanweisungen für Zulassungsstellen. https://fragdenstaat.de/anfrage/dienstanweisungen-fuer-zulassungsstellen/, Datum des Zugriffs: 30.12.2022.</li>
+  <li>[11] Dienstanweisungen für Zulassungsstellen. https://fragdenstaat.de/anfrage/dienstanweisungen-fuer-zulassungsstellen-1/, Datum des Zugriffs: 30.12.2022.</li>
+</ul>
+
+<h2 id="literatur">Literatur:</h2>
+<ul>
+  <li>[12] Zoll online - Erfüllung, Nichterfüllung und Übertragung der Quotenverpflichtung. https://www.zoll.de/DE/Fachthemen/Steuern/Verbrauchsteuern/Treibhausgasquote-THG-Quote/Quotenverpflichtung/Erfuellung-Quotenverpflichtung/Erfuellung-Nichterfuellung-Uebertragung-Quotenverpflichtung/erfuellung-nichterfuellung-uebertragung-quotenverpflichtung_node.html, Datum des Zugriffs: 29.12.2022.</li>
+</ul>
+
+<h2 id="archiv">Archiv:</h2>
+<ul>
+  <li><a href="/assets/thg/archiv_thg-quote.zip">archiv_thg-quote.zip</a> (3a3f9c7efd86c8cacf94a25706155ebfa1d566cb)</li>
+</ul>]]></content><author><name></name></author><summary type="html"><![CDATA[Inhalt Was ist die Treibhausgasminderungsquote (THG-Quote)? Wo beantragt man die THG-Prämie? Die THG-Prämie und zulassungspflichtbefreite Fahrzeuge Personalknappheit und gefährliche E-Scooter-Kennzeichen Kosten der freiwilligen Zulassung TL;DR Quellen / Literatur / Archiv]]></summary></entry><entry><title type="html">Nextbikefahrten in Karlsruhe</title><link href="https://conamara.eu/2022/12/09/Nextbikefahrten_in_Karlsruhe.html" rel="alternate" type="text/html" title="Nextbikefahrten in Karlsruhe" /><published>2022-12-09T00:00:00+01:00</published><updated>2022-12-09T00:00:00+01:00</updated><id>https://conamara.eu/2022/12/09/Nextbikefahrten_in_Karlsruhe</id><content type="html" xml:base="https://conamara.eu/2022/12/09/Nextbikefahrten_in_Karlsruhe.html"><![CDATA[<h1 id="übersicht">Übersicht</h1>
+<ol>
+  <li>Der Datensatz</li>
+  <li>Welche Daten könnte man hieraus ableiten?</li>
+  <li>Grobe Visualisierungen</li>
+  <li>Praktikabilität ist wichtiger als gesicherte Wahrheit</li>
+  <li>Probleme im Umgang mit großen Datenmengen</li>
+  <li>Verzeichnis und Infos</li>
+</ol>
+
+<h1 id="der-datensatz">Der Datensatz</h1>
+
+<p>Zwar ist die API von Nextbike durch einen entsprechenden Schlüssel gesichert, doch wer diesen öffentlich mit in die URLs der eigenen Website schreibt oder die Anforderung eines Keys ebenso simpel ermöglicht, kann sich wohl kaum darauf berufen, dass einem die Vertraulichkeit der Responses wirklich am Herzen liegt.</p>
+
+<p>Frägt man in regelmäßigen Abständen die in einer Stadt verfügbaren Fahrräder ab, so lassen sich hieraus Start- und Endkoordinaten sowie Zeiten ableiten. Auch erfährt man über den Stationsnamen, ob ein Fahrrad an einer Station oder einfach so abgestellt wurde.</p>
+
+<p>Diese Liste an Fahrten kann man beispielsweise wie folgt führen:
+<img src="/assets/visualisierungen/Fahrten.png" alt="Abbildung 1: Rohdaten" /></p>
+
+<p>Gesammelt wurden knapp 12.000 Fahrten zwischen dem Abend des 6. und Morgen  des 10. Novembers 2022. Beschränken wir uns auf volle Tage, so erhalten wir 11.607 Fahrten über 72h - knapp 3 Räder pro Minute durchschnittlich, zu Stoßzeiten mehr als doppelt so viel.</p>
+
+<h1 id="welche-daten-könnte-man-hieraus-ableiten">Welche Daten könnte man hieraus ableiten?</h1>
+<p>Einerseits lassen sich allgemeine, statistische Auswertungen erstellen, die die Fahrtdauer, Uhrzeiten, Häufigkeit der Nutzung ausgewählter Fahrräder, Fahrten von und zu Stationen, sowie die Entfernung via Luftlinie, umfassen.
+Andererseits können wir die Daten aber auch mit den in Karlsruhe oder anderen Städten vorhandenen Flexzonen sowie den Koordinaten der Stationen abgleichen und so bspw. wie Nextbike selbst sehen, ob und wie oft Fahrräder außerhalb von Stationen und Flexzonen abgestellt werden und wo Strafgebühren verlangbar sind, aber vielleicht auch sehr gut zeigt, wo Bedarf für neue Stationen herrscht.</p>
+
+<p>Ebenfalls können wir nach Stoß- und Pendelzeiten filtern, was eine detailliertere Auswertung von häufig genutzten Radwegen für die tägliche Anfahrt in die Arbeit oder Uni attraktiv macht. Wer jedoch täglich mit dem Fahrrad pendelt wird sich hierzu aber wohl kaum ein schweres Nextbike nehmen, dessen Verfügbarkeit ebenso wenig garantiert ist wie die Leichtgängigkeit beim Fahren durch bspw. platte(re) Reifen, eine durchspringende Gangschaltung oder rasselnde Tretlager.</p>
+
+<p>Für Karlsruhe sprechen jedoch einige Überlegungen für eine (zukünftige) weitere Auswertung, die nicht so verzerrt sein könnte, wie man vielleicht initial vermutet:<br />
+Da Fahrradfahren an Tagen, an welchen es regnen könnte, sehr viel unattraktiver wird, aber für kurze Strecken die Bahn die unflexiblere als auch längere Fahrt darstellt, kann man, da die Fahrradmitnahme zu Stoßzeiten nicht nur unpraktisch sondern auch nicht gestattet ist, auf die Idee kommen, mit dem Nextbike hin oder aber zurück zu fahren und bei Regen auf die Bahn auszuweichen.</p>
+
+<p>Durch eine Querfinanzierung über den Studierendenbeitrag am KIT als auch an der Hochschule Karlsruhe ist zudem die Nutzung für Studierende extrem günstig. Zwar kann man auch mit einem eigenen Fahrrad fahren, durch die große Verfügbarkeit der Räder auf dem Campus ist jedoch besonders die Heim- oder Weiterfahrt attraktiv. Weder ist man gezwungen, das eigene Fahrrad stehen zu lassen und es am nächsten Tag nicht zu haben, noch muss man es für kurze Fahrten, die man am Ende bspw. mit Kommillitoninnen zurückläuft, schieben. Durch das Rahmenschloss hat man zudem die Möglichkeit das Fahrrad schnell und unkompliziert abzuschließen und da es auch nicht das eigene ist, muss man kaum Angst um Schäden im Lack oder Diebstahl haben.
+Somit ergibt sich eine Grundsituation, die es eher unattraktiv macht, ein eigenes Fahrrad zur Uni zu nehmen, wenn man denn auch gut mit der Bahn zur Uni kommt und die Verfügbarkeit der Räder sehr gut ist. Zwar sind nicht alle Fahrten vom oder zum Campus Pendelstrecken, doch kann man durch das Exkludieren kurzer Fahrten und die oben erwähnten Stoßzeiten eine plausible Fahrtenliste erhalten.
+Da die detaillierte Auswertung dieses Ansatzes jedoch nicht nur erheblich aufwendiger, sondern auch stochastisch unsicherer ist, sind die Visualisierungen dieser Fahrten in diesem Artikel noch nicht enthalten.</p>
+
+<p>Durch die Flexzone, die sich über die Kernstadt erstreckt, sind jedoch auch alltägliche Routen sehr gut erfassbar und bieten durch die Flexibilität des Abstellorts und die hohe Dichte verfügbarer Fahrräder in der Innenstadt ein wenig verzerrtes Bild häufig angefahrerener Orte.</p>
+
+<h1 id="grobe-visualisierungen">Grobe Visualisierungen</h1>
+<p>Verzeichnen wir die Startkoordinaten der Fahrten in einer Karte, so können wir hier zur verbesserten Sichtbarkeit vieler und eng beieinander liegenden Punkten eine Heatmap mittels Kerndichteschätzung erstellen. Dabei wird gezählt, wieviele Punkte im Umkreis einer gewählten Koordinate liegen und dieser Wert zur schnellen und intuitiven Visualisierung anhand einer Farbskala dargestellt.
+<img src="/assets/visualisierungen/Heatmap-Startkoordinaten.jpg" alt="Abbildung 2: Heatmap der Startkoordinaten - bewusst ohne Einheiten" /></p>
+
+<p>Verzeichnet sind auf der Karte auch die in Karlsruhe verfügbaren Flexzonen der Kernstadt, des KITs sowie die Flexzone Durlachs im Osten, wobei sich eine starke Überschneidung der Aktivität mit deren Fläche zeigt. Größere Hotspots finden sich allerdings etwa an einem großen Studierendenwohnheim, dem Hadiko, nordöstlich angrenzend an die Flexzone des KITs. Auch die Wohnheime in der Waldstadt, wobei nicht alle eine Station haben, sowie zwei in der Nordstadt sind klar erkennbar.</p>
+
+<p>Eine sehr gleichmäßige Verteilung der Startkoordinaten zeigt sich in der Innenstadt, was, wie oben bereits erwähnt, eine gute Grundlage für wenig verzerrte POIs bietet.
+Für die Endkoordinaten zeigt sich nahezu dasselbe Bild.</p>
+
+<h1 id="praktikabilität-ist-wichtiger-als-gesicherte-wahrheit">Praktikabilität ist wichtiger als gesicherte Wahrheit</h1>
+<p>Die gesammelten Daten bieten in dieser Rohform jedoch keine gute Möglichkeit, um häufig befahrene Routen zu finden. Denn die recht homogen in der Innenstadt verteilten POIs lassen keinen Rückschluss über die angefahrene Häufigkeit zu, weil sie nur durch Start- und Endkoordinaten gemessen werden, Fahrräder aber auch auf einer Route von außerhalb und zurück geparkt werden können und sich diese Fälle über die Protokollierung der verfügbaren Räder nicht ergibt. Schließlich sind mittels App als geparkt vermerkte Räder nicht für andere verfügbar. Andererseits liegen die POIs der Innenstadt aber naturgemäß sehr zentral und werden auch auf durchquerenden Routen erreicht. Für die Messung des Verkehrs ist es, besonders im Radverkehr, am Ende nicht relevant, ob ein Ort Ziel oder nur Teil der Route ist.
+Das erste Problem ist epistemisch schlicht unlösbar, weil die Daten nicht existieren, das zweite Problem lässt sich jedoch durch Annäherung angehen.</p>
+
+<p>Würden wir zwischen Start und Ziel lediglich Orthodrome bzw. Geödäten zeichnen, wäre dies kaum verwertbar.</p>
+
+<p><img src="/assets/visualisierungen/Geflecht.jpg" alt="Abbildung 3: Ein tolles Geflecht" /></p>
+
+<p>Zwar können wir nun auch hier die Liniendichte berechnen, doch da auch diejenigen Routen, die in der Praxis weitestgehend identisch sind, in der Darstellung mittels Geodäten nicht unbedingt nah beisammenliegen müssen, ist das keine geeignete Darstellung. In anderen Städten, etwa Heidelberg, die keine Flexzone haben, kann es jedoch eine ähnlich gute Darstellung wie das Einzeichnen realistischer Routen sein, da es nicht so viele Start- und Zielkoordinaten gibt.</p>
+
+<p>Aus diesem Grund der Praktikabilität scheint es mir wesentlich sinnvoller, Daten anzunehmen, die plausibel und für Ortskundige umso realistischer sind als gar keine zu haben. Zwar ist nicht gewährleistet, dass die Berechnung von »optimalen« Fahrradrouten auch tatsächlich denen entspricht, die wirklich gefahren wurden. Ebenso ist es aber auch nicht möglich, nachzuweisen, dass die berechneten Routen falsch sind. Für die Verwendung spricht darum, dass sinnvolles »Raten« besser ist als gar nichts zu haben als auch die Plausibilität, dass, realistische Fahrradwege und damit verbunden sinnvolle Routenberechnung anhand aktueller Kartendaten vorausgesetzt, die berechneten Routen weitestgehend den Routen Ortskundiger und damit hoffentlich den Nutzerinnen der Nextbikes entsprechen.</p>
+
+<p>Zur Routenberechnung verwendet werden die Start- und Endkoordinaten der jeweiligen Fahrten. Diese werden mittels OpenStreetMap-Kartendaten, also den dort hinterlegten Radwegen, und dem OpenRouteService berechnet. Da die API des öffentlichen Servers (verständlicherweise) nur 40 Anfragen pro Minute und maximal 2000 je Tag zulässt, wurden die Routen auf einer eigenen Instanz berechnet.</p>
+
+<p>Hierzu wurde das von OpenRouteService bereitgestellte Dockerimage verwendet und die aktuellen OpenStreetMap-Daten über die GeoFabrik heruntergeladen. Für den OpenRouteService existiert zudem ein QGis-Plugin, mit welchem man die Koordinaten aus den Layern an die OpenRouteService-API übertragen kann. Dabei lässt sich die Antwort auch direkt in einem Geopackage abspeichern und somit später die Liniendichte via QGis berechnen. Der Algorithmus ist hierbei derselbe wie in ArcGIS und für R finden sich ebenfalls die gleichen Implementierungen.</p>
+
+<p><img src="/assets/visualisierungen/Fahrradrouten-Karlsruhe.jpg" alt="Abbildung 4: Liniendichte" /></p>
+
+<p>Je häufiger ein Streckenabschnitt in einer Routenberechnung verwendet wird, umso hellgrüner ist er markiert. Einzelne Routen werden der Vollständigkeit halber ebenfalls dargestellt, da so die Dimensionen aller Fahrten auch deutlich werden. Bei der Interpretation der dargestellten Routen muss dabei aber stets der Fokus auf dem Kerngebiet liegen, da die Heatmap auch nur in den Flexzonen hinreichend heterogen ist, um eine unverzerrte Auswahl nahezulegen. Betrachten wir die Hotspots der Wohnheime, so werden sicher auch die Strecken von und zu diesen befahren, jedoch dürften diese durch die große Anzahl von Studierenden unter den Nextbikenutzerinnen überbetont sein. Dass die Studierenden in Karlsruhe einen größeren Teil der Bevölkerung darstellen ist sicher kaum zu bestreiten, ebenso wie ihr Anteil am Radverkehr - ihre Überbetonung der Daten durch die quasi kostenfreie, da qua Studistatus vorhandene Möglichkeit zur Nextbikenutzung, jedoch ebenfalls nicht.</p>
+
+<p>Strecken zu Hochschulen und Universitäten können darum hier auch im Vergleich zu den sonstigen Routen stärker dargestellt sein als sie es in Realität sind. Dass die Routenberechnung zudem nicht immer richtig ist, zeigt sich an einer typischen Route vieler Studierender vom KIT Campus zum Wohnheim HaDiKo.</p>
+
+<p><img src="/assets/visualisierungen/Openrouteservice-Screenshot.png" alt="Abbildung 5: Screenshot der öffentlichen OpenRouteService-Webapp" /></p>
+
+<p>Angesichts der Route entlang des Adenauerrings ist mir unklar, weshalb diese von der lokalen Instanz bei den Berechnungen nicht bevorzugt wurde.</p>
+
+<p>Die Routen über den Schlossgarten, entlang dem Zirkel, der Weg über die Erbprinzenstraße zum Rondellplatz und die Markgrafenstraße hingegen decken sich stark mit eigenen Erfahrungen. Der Umstand, dass Parkhäuser in der Innenstadt zwar prinzipiell verfügbar, aber durch die Anbindung der zwei großen Parkhäuser am Ettlinger Tor und der Badischen Landesbibliothek, erheblich weniger genutzt werden, ist hierbei sicher mitverantwortlich. Forciert wird das auch durch die Sperrung von manchen Verbindungsstraßen durch Poller oder Durchfahrtsverbote für Kraftfahrzeuge, sodass man mit dem Auto immer über vielbefahrene und große Straßen wie die Kriegsstraße fahren muss, was durch Ampelschaltungen einen großen Zeitaufwand mit sich bringt. Mit dem Fahrrad hingegen sind die Strecken ohne weitere Hindernisse oder Regelungen durchfahrbar, was auch die Routenberechnung über die Wald- und Sophienstraße, die eine gute Verbindung in die Weststadt ermöglichen, zeigt.</p>
+
+<p>Folgt man den vorgeschlagenen Routen, so ist die Fahrt über die Hirschstraße durch die Überquerung der Kriegsstraße aktuell allerdings eine eher nervige Angelegenheit. Zur Verbindung der Südstadt mit dem Rest der Stadt nördlich der Kriegsstraße, die als Autoroute nunmehr zwar untertunnelt, jedoch für Fahrräder immer noch sehr hindernd ist, wären Verbindungsbrücken, wie die mittlerweile abgerissene und durch Ampelschaltungen ersetzte auf Höhe der Ritterstraße, wünschenswert.</p>
+
+<h1 id="probleme-im-umgang-mit-großen-datenmengen">Probleme im Umgang mit großen Datenmengen</h1>
+<p>Wie man sich sicher vorstellen kann, ist der Weg zu diesen aufbereiteten Visualisierungen nicht ohne Rückschläge und Unverständlichkeiten bestritten worden.</p>
+
+<p>Dabei stößt man oftmals auf eine Prinzipienfrage: Pfuschen oder sich im systematischen Verstehen versuchen und den Fehler an der Quelle beseitigen?</p>
+
+<p>Dabei ist für die Entscheidung besonders relevant: Wie kritisch ist der aktuelle Fehler für das Vorankommen im Gesamtprojekt und baut man in Zukunft auf den Ergebnissen auf?</p>
+
+<p>Während es etwa für QGis kein Problem darstellt, tausende Punkte, Linien und komplexe Polygone performant darzustellen, so ist der Umgang mit langen Listen und der Verarbeitung und Zusammenfassung mehrerer tausend Werte und Layer ein größeres Problem. So ist Python unglaublich praktisch, andererseits aber auch langsam. Selbst dann, wenn Algorithmen - wie der zur Berechnung der Liniendichte etwa - durch kompilierte und in C oder C++ geschriebene Bibliotheken implementiert sind, ist die Schnittstelle immer noch Python und kann bei einigen hundert Argumenten noch funktionieren. Bei tausend oftmals auch noch, aber beim Versuch, über zehntausend Routen zu berechnen, klappt irgendwas dann aber doch nicht. Im Falle des OpenRouteService-Plugins bspw. liegt die magische Grenze des Routen-in-einem-Layer-Zusammenfassens bei etwas über 3000, beim QGis-eigenen Plugin bei etwa 1600.</p>
+
+<p>Für ein Projekt wie dieses hier, wo es (noch) nicht um die schnelle Erstellung einer immer neuen und aktuellen Auswertung geht, ist es angesichts des Aufwands sinnvoller, den einfacheren Weg zu gehen als zu versuchen, sich in Unbekanntes einzuarbeiten, wenn man den Zeitaufwand nicht abschätzen kann und ihn gegen höhere Berechnungszeit zu tauschen. Beim Zusammentragen der Antworten vom OpenRouteService-Server hätte ich dabei folgende Möglichkeiten gehabt:</p>
+<ol>
+  <li>Den Eingabelayer aufteilen und anstatt der Reihe nach knapp 12k Anfragen zu schicken, sondern bspw. 1000 Einträge je Layer und der Reihe nach 12 Layer</li>
+  <li>Oder die integrierte Funktion des Plugins nutzen, das je Anfrage einen eigenen neuen Layer mit der Route erstellt.
+Option 1 ist zwar je zu berechnender Route erheblich schneller, bedeutet aber, entweder händisch 12 Layer zu erstellen oder ein Skript zu schreiben, das die 12 Layer automatisch erstellt bzw. die Eingabedaten so aufteilt, dass man durch die Importierung 12 Layer erstellt, die man der Reihe nach entweder mit dem Plugin aufruft oder aber ein weiteres Skript schreibt, das die Layer der Reihe nach verarbeitet. Die fertigen 12 Routenlayer hätte man dann aber auch wieder zu einem einzigen zusammenfügen müssen, um eine Liniendichteberechnung mit integrierten Funktionen durchzuführen.</li>
+</ol>
+
+<p>Im Falle von Option 2 dauert es dadurch, dass immer wieder ein neuer Befehl gestartet wird, die Anfrage abgewartet, verarbeitet und einzeln abgespeichert wird ca. 3x länger, alle Routen zu berechnen. Andererseits ist der Prozess aber zuverlässiger, da im Falle eines Fehlers keine bereits erstellten Daten verloren gehen. Ebenfalls muss man keine Zeit mit der Erstellung mehrerer Skripte verbringen. Dabei geht es im Falle von Option 1 zwar schneller, sämtliche Routen zu berechnen - bis aber so viele Routen berechnet wurden, dass das Plugin abstürzt, vergehen trotzdem einige Minuten. Man kann also auch die Zwischenzeit nicht anders nutzen, sondern muss den Prozess stetig überwachen.</p>
+
+<p>Am Ende knapp 12k berechnete Routen in jeweils einzelnen Layern in einen großen zusammenzuführen stellte sich allerdings auch nicht als allzu einfach heraus. Denn wie oben erwähnt ist die Menge an Argumenten begrenzt und die Generierung einer Argumentliste über die grafische Oberfläche auch nicht ressourceneffizient. Sollte zudem der Datensatz zukünftig erweitert werden, würde es umso mühseliger, hier keinen schnellen Weg zur Zusammenführung zu haben.
+Somit habe ich ein Skript erstellt, das die GeoPackage-Dateien, in welchen jeweils ein Layer gespeichert ist, für den entsprechenden Ordner listet und der Reihe nach in variabler Anzahl zusammenführt, wobei die zusammengefassten Layer am Ende erneut verarbeitet werden können. Mit zwei Iterationen je 1000 Eingaben erhält man so am Ende die Möglichkeit bis zu eine Million Dateien in einer zusammenzufassen. Zwar ist dieser Prozess hinsichtlich Hardwareverschleiß durch die Menge der Zugriffe suboptimal, aber erneut korruptionssicherer.</p>
+
+<p>Den einen Layer am Ende erhalten, kann man mit der Liniendichteberechnung starten. Hier gilt es einen Kompromiss zwischen Auflösung und Laufzeit zu finden, da sich Laufzeit und Speicherbedarf, zumindest in den Regionen mit vielen Routen, exponentiell zur Auflösung verhalten.</p>
+
+<p>Das Ergebnis des Prozesses ist eine Bilddatei im GeoTIFF-Format, die anschließend eingefärbt werden kann. Doch auch hier stößt man wieder an die Grenzen so mancher  Algorithmen aus dem Baukasten. Zwar bietet QGis von Haus aus die Möglichkeit, sämtliche Werte einem Farbverlauf zuzuordnen, nach einer Klassifizierung aller Werte zeigt sich jedoch der Nachteil einer hohen Auflösung aus dem Prozess davor: Es sind zu viele als dass sie richtig gerendert würden. Das Resultat sind transparente Routen abseits eines kleines Ausschnittes, obwohl ihnen eigentlich eine Farbe zugewiesen wurde.</p>
+
+<p>Die Option, einfach nur n-Gradiente mit linearem Abstand zu wählen ist andererseits auf 255 Werte beschränkt und so ergibt sich erneut die Notwendigkeit eines kleinen Skripts. Prinzipiell ist es dann mittels Bibliotheken wie Matplotlib auch möglich, eine nicht lineare Verteilung, den Rohdaten entsprechend, zu wählen. Für diesen »kleinen« Datensatz schien es nun am Ende aber doch am praktischsten, wenige Abstufungen zu wählen, weil das Endresultat eine irrelevant genaue Darstellung ist und Straßen, die dennoch wichtig und vielbefahren sind, aber von der Routenberechnung nicht gleichermaßen bevorzugt wurden, unterrepräsentiert sind.</p>
+
+<h1 id="verzeichnis-und-infos">Verzeichnis und Infos</h1>
+<h2 id="zugehörige-dateien-und-sha1-hashes">Zugehörige Dateien und SHA1-Hashes:</h2>
+<ul>
+  <li>Fahrten.png (4dc2efc0e9b8178955bbd7d0a56898b76cb24bb0)</li>
+  <li>Heatmap-Startkoordinaten.jpg (8be46646654966966d6083494495217c45f207b3)</li>
+  <li>Geflecht.jpg (f22a596ebd7dc6ae79f8c3c800021027aa12febc)</li>
+  <li>Fahrradrouten-Karlsruhe.jpg (d1af7fb5394311b9dea282130a81fd7f9e3e434)</li>
+  <li>Openrouteservice-Screenshot.png (83daa03e88f6727de3d8173efd6ad230a2ffa5b9)</li>
+</ul>
+
+<h2 id="zur-arbeit">Zur Arbeit</h2>
+<p>Diese Ausarbeitung wurde im Rahmen der Schlüsselqualifikation »Visualisierungen - Von Daten die Bilder werden wollen« von mir, Patrick Zauner, erstellt.</p>]]></content><author><name></name></author><summary type="html"><![CDATA[Übersicht Der Datensatz Welche Daten könnte man hieraus ableiten? Grobe Visualisierungen Praktikabilität ist wichtiger als gesicherte Wahrheit Probleme im Umgang mit großen Datenmengen Verzeichnis und Infos]]></summary></entry><entry><title type="html">Kaufberatung zu Powerbanks mit USB-C PowerDelivery mit 60W</title><link href="https://conamara.eu/2022/07/27/Powerbanks_und_Wishbashing.html" rel="alternate" type="text/html" title="Kaufberatung zu Powerbanks mit USB-C PowerDelivery mit 60W" /><published>2022-07-27T00:00:00+02:00</published><updated>2022-07-27T00:00:00+02:00</updated><id>https://conamara.eu/2022/07/27/Powerbanks_und_Wishbashing</id><content type="html" xml:base="https://conamara.eu/2022/07/27/Powerbanks_und_Wishbashing.html"><![CDATA[<h1 id="einführung">Einführung</h1>
 
 <p>Als im Mai 2022 Interrail zu ihrem 50-jährigem Jubiläum sagenhafte 50%-Rabatt auf den Global-Pass verkündete und man sich so ein Ticket für ganz Europa für nur 252€ kaufen konnte, war der Urlaub schnell gebucht. Oder zumindest der gesamte Rahmen, um den man dann den Urlaub planen kann.</p>
 
@@ -238,7 +632,7 @@ Für LiIon-Akkus ist es allerdings auch relativ unproblematisch, bis zu Temperat
 
 <h1 id="sonstiges">Sonstiges</h1>
 
-<p>Link zum verwendeten, sich immer wiederholenden 5-Minuten-Timer für die Messungen bei der Ladeleistung: https://www.napcatstudio.com/webtimer/timer.html</p>]]></content><author><name></name></author><summary type="html"><![CDATA[Einführung]]></summary></entry><entry><title type="html">Gesundheitsamt und Polizei kooperieren, Luca liefert die Daten (as intended)</title><link href="http://localhost:4000/2022/01/08/Luca_ist_Symptom_des_Problems-aber_nicht_Hauptursache.html" rel="alternate" type="text/html" title="Gesundheitsamt und Polizei kooperieren, Luca liefert die Daten (as intended)" /><published>2022-01-08T00:00:00+01:00</published><updated>2022-01-08T00:00:00+01:00</updated><id>http://localhost:4000/2022/01/08/Luca_ist_Symptom_des_Problems-aber_nicht_Hauptursache</id><content type="html" xml:base="http://localhost:4000/2022/01/08/Luca_ist_Symptom_des_Problems-aber_nicht_Hauptursache.html"><![CDATA[<p>Der SWR berichtete heute darüber, dass die Polizei und das Gesundheitsamt Mainz gemeinsam Kontaktdaten einer Gaststätte anforderten, um Zeugen im Zusammenhang mit einem Todesfall ausfindig zu machen:
+<p>Link zum verwendeten, sich immer wiederholenden 5-Minuten-Timer für die Messungen bei der Ladeleistung: https://www.napcatstudio.com/webtimer/timer.html</p>]]></content><author><name></name></author><summary type="html"><![CDATA[Einführung]]></summary></entry><entry><title type="html">Gesundheitsamt und Polizei kooperieren, Luca liefert die Daten (as intended)</title><link href="https://conamara.eu/2022/01/08/Luca_ist_Symptom_des_Problems-aber_nicht_Hauptursache.html" rel="alternate" type="text/html" title="Gesundheitsamt und Polizei kooperieren, Luca liefert die Daten (as intended)" /><published>2022-01-08T00:00:00+01:00</published><updated>2022-01-08T00:00:00+01:00</updated><id>https://conamara.eu/2022/01/08/Luca_ist_Symptom_des_Problems-aber_nicht_Hauptursache</id><content type="html" xml:base="https://conamara.eu/2022/01/08/Luca_ist_Symptom_des_Problems-aber_nicht_Hauptursache.html"><![CDATA[<p>Der SWR berichtete heute darüber, dass die Polizei und das Gesundheitsamt Mainz gemeinsam Kontaktdaten einer Gaststätte anforderten, um Zeugen im Zusammenhang mit einem Todesfall ausfindig zu machen:
 https://www.swr.de/swraktuell/rheinland-pfalz/mainz/polizei-ermittelt-ohne-rechtsgrundlage-mit-daten-aus-luca-app-100.html</p>
 
 <p>Während das Ganze nun natürlich einen negativen Eindruck auf luca macht, so muss man gestehen: Mit der Zettelwirtschaft wäre dasselbe passiert.
